@@ -1,0 +1,32 @@
+{
+  "name": "react-ts-search-github-user-info",
+  "version": "0.0.0",
+  "private": false,
+  "dependencies": {
+    "@babel/core": "^7.0.0",
+    "@emotion/react": "^11.5.0",
+    "@emotion/styled": "^11.3.0",
+    "@mui/material": "^5.10.2",
+    "@types/axios": "^0.14.0",
+    "@types/emotion/styled": "*",
+    "@types/material-ui": "^0.21.12",
+    "@types/mui/material-ui": "*",
+    "@types/react": "^18.0.8",
+    "@types/react-dom": "^18.0.2",
+    "axios": "^0.27.2",
+    "clsx": "^1.2.1",
+    "number-abbreviate": "^2.0.0",
+    "react": "^18.1.0",
+    "react-debounce-input": "^3.3.0",
+    "react-dom": "^18.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
