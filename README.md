@@ -1,3 +1,3 @@
-# react-ts-gvpues
+# React, TypeScript, Material-UI and Axios
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-gvpues)
+Generated project from [StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-gvpues)
